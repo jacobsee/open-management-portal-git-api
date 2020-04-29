@@ -1,7 +1,9 @@
 package com.redhat.labs.omp.service;
 
 import java.util.Optional;
-
+DON'T COMPILE THIS
+THIS IS GARBAGE
+I WANT THIS BUILD TO FAIL
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
 import javax.ws.rs.WebApplicationException;
